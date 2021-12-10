@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MarvelApp</string>
+    <string name="screen_list_of_characters">List Of Characters</string>
+    <string name="screen_detail_character">Detail character</string>
+    <string name="screen_detail_character_no_description">No description for this character</string>
+    <string name="screen_list_of_characters_no_favs">You not have favorites selected</string>
+    <string name="marvel">Marvel</string>
+    <string name="api_error_unknown">Unknown api error</string>
+    <string name="api_error_no_internet">No internet Connection</string>
+    <string name="api_some_error">some error occurred</string>
+    <string name="api_error_resource_not_found">resource not found</string>
+
+</resources>
